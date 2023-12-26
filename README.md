@@ -1,5 +1,5 @@
 
-# Dashboard Overview: E-Commerce Website Analytics
+# Dashboard Overview: E-Commerce Website 
 
 Introduction:
 This dashboard offers a comprehensive overview of key performance metrics for our e-commerce website over the past 60 days. By examining user behavior and sales trends, we aim to provide actionable insights for strategic decision-making and continuous improvement.
